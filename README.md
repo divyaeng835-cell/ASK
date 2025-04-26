@@ -1,6 +1,6 @@
 # ASK
 # Aim
-To simulate and visulaize Amplitude shift keying (ASK) modulation nd demodulation using a Butterworth low-pass filter for binary data.
+To simulate and visualize Amplitude shift keying (ASK) modulation and demodulation 
 # Tools required
 Python IDE with Numpy and Scipy
 # Program
@@ -55,6 +55,6 @@ plt.show()
 # Output Waveform
 ![WhatsApp Image 2025-04-19 at 16 03 07_fd00eaf8](https://github.com/user-attachments/assets/dc35cac7-4cb0-4ff3-80d8-cb091985f270)
 # Hardware experiment output waveform.
-![WhatsApp Image 2025-04-24 at 10 10 31_faccc7c1](https://github.com/user-attachments/assets/1ab84c57-61e1-4795-b6f3-81d62aaf0966)
+![WhatsApp Image 2025-04-26 at 13 26 09_182116f5](https://github.com/user-attachments/assets/937de153-9d8a-4193-9dd2-e147901a0ff3)
 # Results
-A python program is simulate and visualize Amplitude shift Keying (ASK) modulation and demodulation using a Butterworth low-pass filter for binary data.
+Amplitude shift Keying (ASK) modulation and demodulation is successfully simulated and visualized.
